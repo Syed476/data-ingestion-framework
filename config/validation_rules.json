@@ -3,5 +3,7 @@
     "id",
     "name",
     "amount"
-  ]
+  ],
+  "check_duplicates": true,
+  "primary_key": "id"
 }
